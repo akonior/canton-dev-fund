@@ -1,11 +1,16 @@
 ## Development Fund Proposal
 
-**Author:** IntellectEU  
+**Organization:** IntellectEU  
+**Author / Primary Contact:** Arkadiusz Konior, Przemysław Pawelec, Jonathan Mayeur (IntellectEU)  
 **Status:** Submitted  
 **Created:** 2026-06-23  
+**Updated:** 2026-09-28  
+**Proposal Type:** RFP-aligned  
+**RFP / Roadmap Area:** Governance, Identity & Network Coordination - RFP 9 Governance automation (also relevant to RFP 8 Canton Coin Tokenomics)  
+**Champion:** Itai Segall (Digital Asset)  
+**Total Funding Request:** 4,000,000 CC  
+**Project Duration:** ~8 months (33 weeks from approval)  
 **Label:** onchain-governance
-
-**Champion:** Itai Segall (Digital Asset)
 
 
 ---
@@ -21,6 +26,19 @@ applying changes is slow, cumbersome and must happen serially.
 This proposal moves management of SV Right Owners, their weights and beneficiaries onto the ledger.
 
 Digital Asset will partner on this proposal to help with design and ensure delivery.
+
+---
+
+## RFP Alignment and Ecosystem Need
+
+**RFP.** This responds to RFP 9, Governance automation: it turns a repeatable governance workflow (adding, removing and re-weighting SV Right Owners) from a vote plus a manual off-ledger config change into a single on-ledger vote, and it supports moving a rights owner between different SV nodes. It also serves RFP 8's goal of limiting off-chain governance decisions.
+
+**Who needs it and why.**
+- **SV node operators** stop maintaining right owners and beneficiaries in node config.
+- **SV Right Owners hosted on another operator's node** can see their weight on-ledger and manage their own beneficiaries without asking the operator.
+- **Super Validators and the Foundation** can audit every right owner's weight and beneficiaries in Scan, and change them with a normal vote.
+
+**Adoption.** It ships in a standard Splice release, so every SV node gets it. The switch to the new model is one SV vote, and existing beneficiaries' minting flow does not change.
 
 ---
 
