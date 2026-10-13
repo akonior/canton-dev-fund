@@ -157,7 +157,8 @@ The system can continue operating at all points in time.
 
 ## Milestones and Deliverables
 ### Milestone 1: CIP and Daml Draft
-- **Estimated Delivery:** +10 weeks from DFP approval
+- **Estimated Delivery:** +8 weeks from DFP approval
+- **Committed Delivery:** +10 weeks from DFP approval
 - **Focus:** Implement the Daml Draft and the CIP
 - **Deliverables / Value Metrics:**
   - Daml PR with a draft implementation approved by Splice core maintainers.
@@ -166,6 +167,7 @@ The system can continue operating at all points in time.
 
 ### Milestone 2: Implementation
 - **Estimated Delivery:** +18 weeks from DFP approval
+- **Committed Delivery:** +23 weeks from DFP approval
 - **Focus:** Full functionality implemented and ready for release
 - **Deliverables / Value Metrics:**
   - Merge a series of PRs with the functionality
@@ -173,6 +175,7 @@ The system can continue operating at all points in time.
   
 ### Milestone 3: Roll-out
 - **Estimated Delivery:** +33 weeks from DFP approval
+- **Payment:** due after enabling on MainNet and acceptance, not at a specific date, or forfeited if the acceptance criteria are not met within 12 months of DFP approval.
 - **Focus:** Roll-out of the new model on all networks
 - **Deliverables / Value Metrics:**
   - Deployment to DevNet
@@ -215,11 +218,11 @@ Digital Asset, applied to each milestone.
 Total per party: IntellectEU 2,400,000 CC, Digital Asset 1,600,000 CC.
 
 ### Volatility Stipulation
-If the project duration is **greater than 6 months**:
-The grant is denominated in fixed Canton Coin and will require a re-evaluation at the 6-month mark.
+If the project duration is **greater than 9 months**:
+The grant is denominated in fixed Canton Coin and will require a re-evaluation at the 9-month mark.
 
-If the project duration is **under 6 months**:
-Should the project timeline extend beyond 6 months due to Committee-requested scope changes, any remaining milestones must be renegotiated to account for significant USD/CC price volatility.
+If the project duration is **under 9 months**:
+Should the project timeline extend beyond 9 months due to Committee-requested scope changes, any remaining milestones must be renegotiated to account for significant USD/CC price volatility.
 
 ---
 
