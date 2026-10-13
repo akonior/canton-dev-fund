@@ -174,8 +174,7 @@ The system can continue operating at all points in time.
   - The feature is prod-ready, and ready to be released in the coming minor Splice release
   
 ### Milestone 3: Roll-out
-- **Estimated Delivery:** +28 weeks from DFP approval
-- **Committed Delivery:** +33 weeks from DFP approval
+- **Estimated Delivery:** +33 weeks from DFP approval
 - **Payment:** due after enabling on MainNet and acceptance, not at a specific date, or forfeited if the acceptance criteria are not met within 12 months of DFP approval.
 - **Focus:** Roll-out of the new model on all networks
 - **Deliverables / Value Metrics:**
